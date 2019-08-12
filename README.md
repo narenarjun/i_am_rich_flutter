@@ -2,7 +2,7 @@
 
 This app is a very basic app built with flutter
 
-###Based on the Udemy course from Angela Yu(Appbrewery)
+### Based on the Udemy course from Angela Yu(Appbrewery)
 
 This is a kind of hello world app in flutter where the loading of image over the internet and local asset is learnt!!
 
