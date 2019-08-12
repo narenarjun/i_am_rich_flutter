@@ -1,0 +1,7 @@
+?? to generate icons form the png file go to appicon.co website to generate a icons suitable for all favorable devices
+
+*android icon location
+//! all the files inside '/android/app/src/main/res/' that starts with mipmap are responsible for android app icons , swap them with the genrated icons from appicon.co
+
+* ios icon location
+//! all the files inside '/ios/Runner/Assets.xcassets/AppIcon.appiconset' has the .png file for all resolutions of app icon
